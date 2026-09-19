@@ -1,13 +1,8 @@
-# EndScroll public site
+# EndScroll
 
-GitHub Pages site for EndScroll.
+对外网页。改完 push 就会更新。
 
-| Path | URL |
-| --- | --- |
-| `/` | https://pythoneatviper.github.io/endscroll-legal/ (jumps to `/en/` or `/zh/` by browser language) |
-| `en/` | https://pythoneatviper.github.io/endscroll-legal/en/ |
-| `zh/` | https://pythoneatviper.github.io/endscroll-legal/zh/ |
-| `privacy/` | https://pythoneatviper.github.io/endscroll-legal/privacy/ |
-| `terms/` | https://pythoneatviper.github.io/endscroll-legal/terms/ |
-
-This repo is the source of truth. Edit here and push to publish.
+- 英文 https://pythoneatviper.github.io/endscroll-legal/en/
+- 中文 https://pythoneatviper.github.io/endscroll-legal/zh/
+- 隐私政策 https://pythoneatviper.github.io/endscroll-legal/privacy/
+- 使用条款 https://pythoneatviper.github.io/endscroll-legal/terms/
